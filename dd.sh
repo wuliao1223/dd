@@ -19,16 +19,16 @@ dd_d11(){
 	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 11 -v 64 -a
 }
 dd_d9(){
-	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub.club/Note/master/InstallNET.sh') -d 9 -v 64 -a
+	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 9 -v 64 -a
 }
 dd_u18(){
-	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub.club/Note/master/InstallNET.sh') -u 18.04 -v 64 -a
+	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -u 18.04 -v 64 -a
 }
 dd_u20(){
-	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub.club/Note/master/InstallNET.sh') -u 20.04 -v 64 -a
+	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -u 20.04 -v 64 -a
 }
 dd_c6(){
-	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub.club/Note/master/InstallNET.sh') -c 6.10 -v 64 -a
+	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -c 6.10 -v 64 -a
 }
 
 start_menu(){
