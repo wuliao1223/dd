@@ -7,5 +7,5 @@
 ```
 或者
 ```sh
-  
+  bash <(curl -sL https://git.io/JDLe5)
 ```
