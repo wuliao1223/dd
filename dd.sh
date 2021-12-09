@@ -19,16 +19,16 @@ dd_d11(){
 	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 11 -v 64 -a
 }
 dd_d9(){
-	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 9 -v 64 -a
+	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub.club/Note/master/InstallNET.sh') -d 9 -v 64 -a
 }
 dd_u18(){
-	bash <(wget --no-check-certificate -qO- 'https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh') -u 18.04 -v 64 -a
+	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub.club/Note/master/InstallNET.sh') -u 18.04 -v 64 -a
 }
 dd_u20(){
-	bash <(wget --no-check-certificate -qO- 'https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh') -u 20.04 -v 64 -a
+	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub.club/Note/master/InstallNET.sh') -u 20.04 -v 64 -a
 }
 dd_c6(){
-	bash <(wget --no-check-certificate -qO- 'https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh') -c 6.10 -v 64 -a
+	bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub.club/Note/master/InstallNET.sh') -c 6.10 -v 64 -a
 }
 
 start_menu(){
@@ -40,6 +40,7 @@ start_menu(){
 	 blue " 或者:   wget -N --no-check-certificate https://raw.githubusercontent.com/wuliao1223/dd/main/dd.sh && bash dd.sh "
 	 blue " DD linux 常见系统 "
      blue " 此脚本源于网络，仅仅只是汇聚脚本功能，方便大家使用而已！"
+      red " 默认密码: MoeClub.org "
 	green "=========================================================="
 	yellow " 1. Debian 10 "
 	yellow " 2. Debian 11 "
